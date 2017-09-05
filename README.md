@@ -1,5 +1,9 @@
 # fantasy_selections_DB
 Tableau of 2017 Fantasy Selections
+
+The projections come from the ffanalytics R Package for Fantasy Football Data Analysis - source of scripts comes from http://fantasyfootballanalytics.net/2016/06/ffanalytics-r-package-fantasy-football-data-analysis.html
+
+
 You can download the Tableau reader to open the file here: https://www.tableau.com/products/reader?utm_campaign=Prospecting-PROD-ALL-ALL&utm_medium=Paid+Search&utm_source=Bing&utm_language=EN&utm_country=USCA&kw=tableau%20reader&adgroup=CTX-Brand-Tableau+Reader-E&adused={creative}&matchtype=e&placement={placement}
 
 The bolded works are the same as what you see used in the report graphics.
